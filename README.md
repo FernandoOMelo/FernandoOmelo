@@ -5,6 +5,11 @@
   <img src="https://github-profile-trophy.vercel.app?username=FernandoOMelo&theme=monokai&column=-1&row=1&margin-w=4&margin-h=4&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoOMelo&radius=50&theme=monokai&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoOMelo&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ###
 
