@@ -15,6 +15,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/delphi.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/lazarus.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/dbeaver.svg" />
+  
 </div>
 
 ###
